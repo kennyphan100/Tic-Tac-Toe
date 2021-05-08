@@ -6,12 +6,12 @@ This program simulates the Tic-Tac-Toe board game with graphical user interface 
 ![image](https://user-images.githubusercontent.com/66841718/117555163-d5fa5580-b02a-11eb-8ae0-b7dcce13cb5b.png)
 ![image](https://user-images.githubusercontent.com/66841718/117555166-deeb2700-b02a-11eb-919d-ffbc188b90f4.png)
 
-## Number of nodes that are evaluated by the minimax algorithm without Alpha-beta pruning:
+#### Number of nodes that are evaluated by the minimax algorithm without Alpha-beta pruning:
 ![image](https://user-images.githubusercontent.com/66841718/117555172-e4487180-b02a-11eb-810b-ed95b4ba6de1.png)
 
 
 
-## Number of nodes that are evaluated by the minimax algorithm with Alpha-beta pruning:
+#### Number of nodes that are evaluated by the minimax algorithm with Alpha-beta pruning:
  ![image](https://user-images.githubusercontent.com/66841718/117555176-e6aacb80-b02a-11eb-9f7f-e1d22495f825.png)
 
 
